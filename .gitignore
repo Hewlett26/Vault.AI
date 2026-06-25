@@ -1,0 +1,24 @@
+# Secrets
+.env
+.dev.vars
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Cloudflare
+.wrangler/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Generated files
+history.json
