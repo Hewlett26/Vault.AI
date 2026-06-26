@@ -1,6 +1,6 @@
 # Vault.AI
 
-Transform your notes into an AI tutor.
+![Vault.AI](ui/logo.png)
 
 Vault.AI turns existing Markdown notes, Obsidian vaults, and personal knowledge bases into an AI assistant that makes learning easier. Instead of uploading documents into another platform, students can keep using the tools they already love while getting explanations, quizzes, revision plans, and mock tests grounded in their own notes.
 
@@ -43,6 +43,16 @@ Your workflow stays yours.
 The AI simply makes your knowledge searchable, interactive, and useful.
 
 ---
+
+## Screenshots
+
+### Desktop UI
+
+![Desktop UI](screenshots/DesktopUI.png)
+
+### Mobile UI
+
+![Mobile UI](screenshots/MobileUI.png)
 
 ## How It Works
 
