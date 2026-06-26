@@ -110,7 +110,7 @@ fi
 # result to ui/index.built.html so the template is never overwritten.
 sed "s|__API_URL__|$WORKER_URL|g" ui/template.html > ui/index.html
 
-echo "✓ ui/index.built.html ready — open this file in your browser."
+echo "✓ ui/index.html ready — open this file in your browser."
 echo "✓ Worker URL injected: $WORKER_URL"
 
 # ── Step 4/4: Done ────────────────────────────────────────────────────────
